@@ -1,6 +1,6 @@
 import sys
 
-n = int(sys.argv[i])
+n = int(sys.argv[1])
 
 ruler = ' '
 for i in range(1, n + 1):
